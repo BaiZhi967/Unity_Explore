@@ -51,7 +51,15 @@ AStar寻路：通过Astar寻路算法自动计算NPC的行走路径，结合时�
 
 ## Toolkits
 
-### Unity_Toolkit [弃用]
+### Simple Behavior Tree
+
+链接：https://github.com/BaiZhi967/SimpleBehaviourTree
+
+简介：这是一个简单的Unity的行为树插件。 其中使用了使用了Odin做可视化和UniTask插件实现异步操作 （需要自己导入插件）
+
+实现了行为树种的基础节点功能
+
+### Unity_Toolkit [弃用] 功能以整合进入 WhiteZhiFramework 中
 
 链接：https://github.com/BaiZhi967/Unity-Toolkit/tree/master
 

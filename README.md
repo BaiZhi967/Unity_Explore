@@ -2,6 +2,18 @@
 
 ## 介绍
 记录自己学习Unity的经历
+## Framework
+
+### WhiteZhiFramework
+
+链接：https://github.com/BaiZhi967/WhiteZhiFramework
+
+自己在开发过程中设计和整理的一套个人使用的小型游戏开发框架 + 工具集 
+符合 SOLID 原则、事件驱动、数据驱动、分层、MVC 、CQRS、模块化、易扩展的架构 
+框架还包括定时函数调用、对象池、音频和视频播放器、日志模块、FSM、事件系统、场景加载器、UI管理器、单例和命令 模式等多个实用工具;
+内置了本地化组件、通用对话系统、通用背包系统和一个简易的行为树模块 
+加入了优先队列,树,BindableProperty等多个自定义数据类型 
+对Unity及C#中部分类型和方法的扩展，以及大量实用的静态方法
 
 ## Demo
 ### overcook-like
@@ -46,17 +58,7 @@ AStar寻路：通过Astar寻路算法自动计算NPC的行走路径，结合时�
 通过Excel表格导入卡牌、怪物和关卡信息，自动生成对于的游戏对象
 
 
-## Framework
 
-### WhiteZhiFramework
-
-链接：https://github.com/BaiZhi967/WhiteZhiFramework
-
-自己在开发过程中设计和整理的一套个人使用的小型游戏开发框架
-符合 SOLID 原则、事件驱动、数据驱动、分层、MVC 、CQRS、模块化、易扩展的架构
-框架还包括定时函数调用、对象池、音频和视频播放器、FSM、事件系统、场景加载器、UI管理器、单例和命令模式等多个实用工具;
-加入了优先队列,树,BindableProperty等多个自定义数据类型
-对Unity及C#中部分类型和方法的扩展，以及大量实用的静态方法
 
 
 ## Toolkits
